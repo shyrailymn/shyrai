@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -13,6 +12,9 @@
     </style>
 </head>
 <body>
+    <p>Philosophy</p>
+    <p>6B02201</p>
+    <a href="https://08082019tplink.wixsite.com/shyrai1">электрондық портфолио</a>
     <h1>Nuken Shyrailim</h1>
     <img src="shyrai.jpeg" alt="Nuken Shyrailim">
 </body>
