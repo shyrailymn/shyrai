@@ -1,12 +1,19 @@
-<HTML>
-<HEAD>
-  <TITLE> МЕНІН САЙТЫМ </TITLE>
-</HEAD>
-<BODY>
-  <Р><Н1> НҮКЕН ШЫРАЙЛЫМ </Н1></P>
-  <Р> МАМАНДЫҚ: ФИЛОСОФИЯ ЖӘНЕ ЭТИКА < /Р)
-  <Р> ШТРИХ КОДЫ: 6B02201  </Р>
-  <A HREF-"https://08082019tplink.wixsite.com/shyrai1"›ЭЛЕКТРОНДЫК ПОРТФОЛИО< / А>
-  <img src="shyrai.jpeg" alt="Shyrailym">
-</ BODY>
-< / HTML>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+        <title>Nuken Shyrailim</title>
+    <style>
+        body {
+            background-color:purple;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nuken Shyrailim</h1>
+    <img src="shyrai.jpeg" alt="Nuken Shyrailim">
+</body>
+</html>
